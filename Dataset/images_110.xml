@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dats</folder>
+	<filename>images_110.jpeg</filename>
+	<path>/media/sooryakiran/SooryaSayoo/Abhiyaan/Dataset/dats/images_110.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>barrel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>57</xmin>
+			<ymin>37</ymin>
+			<xmax>138</xmax>
+			<ymax>196</ymax>
+		</bndbox>
+	</object>
+</annotation>
